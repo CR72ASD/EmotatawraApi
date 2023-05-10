@@ -1,0 +1,28 @@
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.deps.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\ref\DataBase.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.deps.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.runtimeconfig.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\bin\Debug\net6.0\DataBase.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.csproj.AssemblyReference.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfoInputs.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.AssemblyInfo.cs
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.csproj.CoreCompileInputs.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\refint\DataBase.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\DataBase.genruntimeconfig.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\DataBase\obj\Debug\net6.0\ref\DataBase.dll

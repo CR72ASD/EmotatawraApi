@@ -1,0 +1,30 @@
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\DataBase.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\DataBase.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.csproj.CopyComplete
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\ref\Methods.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\Methods.deps.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\Methods.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\Methods.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\DataBase.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\bin\Debug\net6.0\DataBase.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.csproj.CopyComplete
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\refint\Methods.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\Methods.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\Methods\obj\Debug\net6.0\ref\Methods.dll

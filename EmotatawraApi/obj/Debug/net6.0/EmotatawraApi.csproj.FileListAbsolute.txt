@@ -1,0 +1,158 @@
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.csproj.AssemblyReference.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.AssemblyInfoInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.AssemblyInfo.cs
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.csproj.CoreCompileInputs.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\appsettings.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.exe
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.deps.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.runtimeconfig.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\DataBase.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Methods.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\DataBase.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Methods.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.EmotatawraApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.build.EmotatawraApi.props
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmotatawraApi.props
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmotatawraApi.props
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\scopedcss\bundle\EmotatawraApi.styles.css
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.csproj.CopyComplete
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\refint\EmotatawraApi.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.pdb
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.genruntimeconfig.cache
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\ref\EmotatawraApi.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alaaa\OneDrive\Desktop\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\appsettings.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.exe
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.deps.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.runtimeconfig.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\EmotatawraApi.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\AutoMapper.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Humanizer.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\DataBase.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Methods.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\DataBase.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\bin\Debug\net6.0\Methods.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.csproj.AssemblyReference.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.AssemblyInfoInputs.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.AssemblyInfo.cs
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.csproj.CoreCompileInputs.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.EmotatawraApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.build.EmotatawraApi.props
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmotatawraApi.props
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmotatawraApi.props
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\scopedcss\bundle\EmotatawraApi.styles.css
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.csproj.CopyComplete
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\refint\EmotatawraApi.dll
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.pdb
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\EmotatawraApi.genruntimeconfig.cache
+D:\Ahmed Alaa\Projects\EmotatawraApi\EmotatawraApi\EmotatawraApi\obj\Debug\net6.0\ref\EmotatawraApi.dll
